@@ -1,0 +1,5 @@
+net\hotel\pages\MainPage.class
+net\hotel\utils\TestHelper.class
+net\hotel\enams\City.class
+net\hotel\pages\RegistrationHotelPage.class
+net\hotel\enams\Country.class
